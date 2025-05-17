@@ -3,7 +3,7 @@ import json
 import re
 import os
 
-LINKMFP = "https://mfp.mac4.duckdns.org/"
+LINKMFP = "https://mfp.mac4.duckdns.org"
 PASSWORD = "mfp"
 
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
